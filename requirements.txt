@@ -1,0 +1,2 @@
+python-appie>=0.2.2
+mcp>=1.10
